@@ -1,3 +1,4 @@
 ls /bin
 ls /tmp
 ls -dr /etc/t*
+ls /dev/tty??
