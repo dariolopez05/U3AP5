@@ -1,0 +1,7 @@
+ls /bin
+ls /tmp
+ls -dr /etc/t*
+ls /dev/tty??
+ls /dev/tty*[1-4]
+ls /dev/t*C1
+ls -a /
